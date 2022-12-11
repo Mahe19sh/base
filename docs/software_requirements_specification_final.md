@@ -80,7 +80,7 @@ The software requirements stage involves the creation of Software Requirements 
 | FR36| The system SHALL only allow the admin to access permissions to the system. |
 | FR37| The System SHALL only allow the admin to update or delete the products.|
 | FR38|The system SHALL secure sensitive data of the user.  |
-| FR39 |   |
+| FR39 |The system SHALL able to secure the card details of user. |
 
 ### Performance
 
@@ -88,8 +88,8 @@ The software requirements stage involves the creation of Software Requirements 
 | :-------------: | :----------: |
 | FR40| The system SHALL respond to multiple users at the same time. |
 | FR341| The wesite SHALL load as fast as possible Regardless of the volume of traffic on the website  .|
-| FR42| |
-| FR43 | |
+| FR42| The system SHALL be able respond to request of user in less than 5 sec.  |
+| FR43 |The  |
 | FR44 |    |
 
 ### Usability
@@ -116,20 +116,15 @@ The software requirements stage involves the creation of Software Requirements 
 
 | ID  | Requirement |
 | :-------------: | :----------: |
-| FR55| The system SHALL . |
-| FR56| The system SHALL .|
+| FR55| The system SHALL able to open through web browser . |
+| FR56| The system SHALL not to create problems when running through anytype of device .|
 | FR57| The system SHALL .|
 | FR58 | The System SHALL . |
 | FR59 | The system SHALL .  |
 
 # Change management plan
-A change management plan is a written list of actions that a we must follow to make sure any change that we experience and has the least possible negative effects on the business, clients, staff members, and essential stakeholders. A change management plan often supervises and manages the execution. Here in our project online grocessary store's change management plan is beneficial to prepare the change by quantifying and managing expenditures connected with the transition. And also having all the necessary procedures and actions clearly specified helps to shorten the time needed for change implementation. It helps the website to function as effectively as possible while implementing change, maintaining maximum productivity
+<Description of what this section is>
 
-• How will you train people to use it?
-
-• How will you ensure it integrates within their ecosystem / software?
-
-• How will you ensure that it any discovered issues are resolved?
 
 # Traceability links
 <Description of this section>
