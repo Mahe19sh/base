@@ -18,6 +18,7 @@ Here in this project, we are going to create a grocery application for grocery s
         - Handson HTML and CSS
         - Understanding of JAVASCRIPT
         - Knowledge on REACTJS
+        - Java, springboot
 
 ## Run Instructions
 #### Currently, we are aiming to run on local computers, which could require the following elements.
